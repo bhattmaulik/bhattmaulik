@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bhattmaulik
+I am a doctoral candidate at India's S P Jain Institute of Management & Research. My areas of interest are finance and banking.
 - 👀 I’m interested in Econometrics and R programming
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning github and quarto
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
