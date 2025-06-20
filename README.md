@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @bhattmaulik
-I am a doctoral candidate at India's S P Jain Institute of Management & Research. My areas of interest are finance and banking.
-- 👀 I’m interested in Econometrics and R programming
-- 🌱 I’m currently learning github and quarto. Quarto is a pandoc-based platform for scientific publication. I am learning it so that I can publish my research through Quarto.
-- 📫 You can reach me through github (@bhattmaulik) and twitter (@bhatt_maulik).
+- 👋 Greetings! I'm @bhattmaulik.
+
+I am an **Assistant Professor at Shanti Business School, Ahmedabad**, where my work primarily focuses on the dynamic fields of **finance and banking**. My academic pursuits involve rigorous analysis and contribution to these areas.
+
+My core interests and expertise lie in **Econometrics, R programming, and Python**. I utilize these powerful programming languages to conduct in-depth quantitative analysis, build robust models, and extract actionable insights from financial data. My aim is to contribute to a deeper understanding of market dynamics and financial systems.
+
+For my scholarly output, I consistently rely on **Quarto**. Its capabilities as a pandoc-based platform for scientific publication are invaluable for producing high-quality, reproducible research documents.
+
+I'm always open to connecting with fellow researchers and practitioners. Feel free to reach out via GitHub (@bhattmaulik) or Twitter (@bhatt_maulik).
 
 <!---
 bhattmaulik/bhattmaulik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
